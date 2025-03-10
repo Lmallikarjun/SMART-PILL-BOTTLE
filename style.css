@@ -24,15 +24,15 @@ canvas {
   width: 30%;
   margin: 10px;
   padding: 20px;
-  background-color: #f4f4f4;
+  background-color: #f4f4f5;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .cta-btn {
   padding: 15px 30px;
-  background-color: #ff5722;
-  color: white;
+  background-color: #ff5725;
+  color: BLUE;
   text-decoration: none;
   border-radius: 5px;
   transition: background-color 0.3s;
